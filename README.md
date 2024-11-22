@@ -1,5 +1,5 @@
 # SLA---Hardware-Related-Incidents-ServiceNow
-Project Overview
+Project overview:
 This task focuses on configuring and managing an SLA in ServiceNow for hardware-related incidents categorized as Priority 4. The SLA ensures incidents are addressed within 16 business hours, paused when the incident is "On Hold," and stopped when the incident is "Resolved" or "Closed." The implementation streamlines incident management, enhances service quality, and improves compliance with organizational standards.
 
 Objectives
